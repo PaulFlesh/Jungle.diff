@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d72ca47b.css",
+    "main.js": "./static/js/main.d6c07a21.js",
+    "static/js/787.7cb47967.chunk.js": "./static/js/787.7cb47967.chunk.js",
+    "static/media/Inter-SemiBold.ttf": "./static/media/Inter-SemiBold.814c22bad710b7ff6e33.ttf",
+    "static/media/Inter-ExtraLightBETA.ttf": "./static/media/Inter-ExtraLightBETA.87f81f5109e89c2a9e72.ttf",
+    "static/media/Inter-LightBETA.ttf": "./static/media/Inter-LightBETA.a87a1bffaad30256a164.ttf",
+    "static/media/Inter-Regular.ttf": "./static/media/Inter-Regular.991468dd4e43f260e6a4.ttf",
+    "static/media/Inter-ExtraLightBETA.woff": "./static/media/Inter-ExtraLightBETA.f8fb7b16183c98e54acd.woff",
+    "static/media/Inter-LightBETA.woff": "./static/media/Inter-LightBETA.ed9a7ce1dedab5d9333b.woff",
+    "static/media/Inter-SemiBold.woff": "./static/media/Inter-SemiBold.7f6c3678e245486167d9.woff",
+    "static/media/Inter-Regular.woff": "./static/media/Inter-Regular.0d6f7c99e635f1fec4c9.woff",
+    "static/media/Inter-ExtraLightBETA.woff2": "./static/media/Inter-ExtraLightBETA.e0258aa9e48598c7f0e9.woff2",
+    "static/media/Inter-LightBETA.woff2": "./static/media/Inter-LightBETA.85119f18c783bf6b0a9a.woff2",
+    "static/media/Inter-SemiBold.woff2": "./static/media/Inter-SemiBold.90f5c90fdecd8895f496.woff2",
+    "static/media/Inter-Regular.woff2": "./static/media/Inter-Regular.bd097ceff83f90802a12.woff2",
+    "static/media/role-jungle.png": "./static/media/role-jungle.1a70ffa9df21e8dd4d09.png",
+    "static/media/role-offlane.png": "./static/media/role-offlane.3158438a843b4e283c81.png",
+    "index.html": "./index.html",
+    "main.d72ca47b.css.map": "./static/css/main.d72ca47b.css.map",
+    "main.d6c07a21.js.map": "./static/js/main.d6c07a21.js.map",
+    "787.7cb47967.chunk.js.map": "./static/js/787.7cb47967.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d72ca47b.css",
+    "static/js/main.d6c07a21.js"
+  ]
+}

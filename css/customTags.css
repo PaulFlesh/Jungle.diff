@@ -1,0 +1,95 @@
+#ADIconOrange {
+  background-color: #ff3434;
+  mask-image: url('../../images/items/filters/PhysicalPower.png');
+  -webkit-mask-image: url('../../images/items/filters/PhysicalPower.png');
+
+  mask-size: contain;
+  -webkit-mask-size: contain;
+  mask-repeat: no-repeat;
+  -webkit-mask-repeat: no-repeat;
+  mask-position: center;
+  -webkit-mask-position: center;
+  margin: -5px -5px;
+  width: 24px;
+  aspect-ratio: 1;
+}
+
+#APIconBlue {
+  background-color: #985fe4;
+  mask-image: url('../../images/items/filters/MagicalPower.png');
+  -webkit-mask-image: url('../../images/items/filters/MagicalPower.png');
+  
+  mask-size: contain;
+  -webkit-mask-size: contain;
+  mask-repeat: no-repeat;
+  -webkit-mask-repeat: no-repeat;
+  mask-position: center;
+  -webkit-mask-position: center;
+  margin: -7px -7px;
+  width: 26px;
+  aspect-ratio: 1;
+}
+
+#PhysPen {
+  background-color: #af002a;
+  mask-image: url('../../images/items/filters/PhysicalPenetration.png');
+  -webkit-mask-image: url('../../images/items/filters/PhysicalPenetration.png');
+  
+  mask-size: contain;
+  -webkit-mask-size: contain;
+  mask-repeat: no-repeat;
+  -webkit-mask-repeat: no-repeat;
+  mask-position: center;
+  -webkit-mask-position: center;
+  margin: -6px -4px;
+  width: 26px;
+  aspect-ratio: 1;
+}
+
+#HealthIconGreen {
+  background-color: #2cfe8f;
+  mask-image: url('../../images/items/filters/MaxHealth.png');
+  -webkit-mask-image: url('../../images/items/filters/MaxHealth.png');
+  
+  mask-size: contain;
+  -webkit-mask-size: contain;
+  mask-repeat: no-repeat;
+  -webkit-mask-repeat: no-repeat;
+  mask-position: center;
+  -webkit-mask-position: center;
+  margin: -7px -6px;
+  width: 26px;
+  aspect-ratio: 1;
+}
+
+#ManaBlue {
+  background-color: #7dbfe9;
+  mask-image: url('../../images/items/filters/MaxMana.png');
+  -webkit-mask-image: url('../../images/items/filters/MaxMana.png');
+  
+  mask-size: contain;
+  -webkit-mask-size: contain;
+  mask-repeat: no-repeat;
+  -webkit-mask-repeat: no-repeat;
+  mask-position: center;
+  -webkit-mask-position: center;
+  margin: -7px -6px;
+  width: 26px;
+  aspect-ratio: 1;
+}
+
+#ArmorOrange {
+  background-color: #ff3434;
+  mask-image: url('../../images/items/filters/PhysicalArmor.png');
+  -webkit-mask-image: url('../../images/items/filters/PhysicalArmor.png');
+  
+  mask-size: contain;
+  -webkit-mask-size: contain;
+  mask-repeat: no-repeat;
+  -webkit-mask-repeat: no-repeat;
+  mask-position: center;
+  -webkit-mask-position: center;
+  margin: -7px -6px;
+  width: 26px;
+  aspect-ratio: 1;
+}
